@@ -22,6 +22,7 @@ public class DigitsSumRoot {
                 }
             }
 
+
             if (temp < 10) {
                 isPossible = false;
 
